@@ -1,0 +1,26 @@
+h1{
+    color: purple;
+    text-align: center;
+}
+
+h2{
+color: purple;
+text-align: center;
+}
+
+h3{
+    color: purple;
+    text-align: center; font-size:x-large
+}
+
+p{
+    text-align: leftZ; font-size:x-large;
+}
+
+strong{
+    color:blueviolet;
+}
+
+body{
+    background-color: rgb(252, 224, 252);
+} 
